@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppSplashTransicion</string>
+    <string name="valtvInformacion">BIENVENIDO A</string>
+    <string name="valtvBienvenida">Bienvenido al APP</string>
+</resources>
